@@ -275,6 +275,6 @@
       },
       "description": "API untuk mengecek harga emas/logam mulia dari berbagai brand yang menampilkan info harga beli/jual.",
       "authentication": "API KEY"
-    },
+    }
   ]
 }
