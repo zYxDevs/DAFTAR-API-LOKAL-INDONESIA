@@ -275,6 +275,6 @@
       },
       "description": "API to get current price of gold from many brands in Indonesia.",
       "authentication": "API KEY"
-    },
+    }
   ]
 }
