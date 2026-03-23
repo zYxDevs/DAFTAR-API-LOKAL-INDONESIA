@@ -22,6 +22,17 @@
       },
       "description": "Menyediakan API gratis untuk pengembangan aplikasi maupun bot, disertai dengan dokumentasi lengkap dan uptime hingga 99%. Akses berbagai API seperti AI, Downloader, Internet, dan lainnya",
       "authentication": false
+    },
+    {
+      "apiName": "Chocomilk API",
+      "status": true,
+      "documentationUrl": "https://chocomilk.amira.us.kg",
+      "developer": {
+        "name": "ZTRdiamond",
+        "profileUrl": "https://github.com/ZTRdiamond"
+      },
+      "description": "Layanan API serba guna dengan berbagai endpoint yang tersedia, dapat digunakan untuk proyek pengembangan apapun seperti bot, app, atau lainnya."
+      "authentication": false
     }
   ]
 }
