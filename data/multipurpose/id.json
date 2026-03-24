@@ -31,7 +31,7 @@
         "name": "ZTRdiamond",
         "profileUrl": "https://github.com/ZTRdiamond"
       },
-      "description": "Layanan API serba guna dengan berbagai endpoint yang tersedia, dapat digunakan untuk proyek pengembangan apapun seperti bot, app, atau lainnya."
+      "description": "Layanan API serba guna dengan berbagai endpoint yang tersedia, dapat digunakan untuk proyek pengembangan apapun seperti bot, app, atau lainnya.",
       "authentication": false
     }
   ]
