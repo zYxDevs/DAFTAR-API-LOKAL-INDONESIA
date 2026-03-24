@@ -31,7 +31,7 @@
         "name": "ZTRdiamond",
         "profileUrl": "https://github.com/ZTRdiamond"
       },
-      "description": "Multi-purpose API service with a variety of endpoints available, suitable for any development project such as bots, apps, or others."
+      "description": "Multi-purpose API service with a variety of endpoints available, suitable for any development project such as bots, apps, or others.",
       "authentication": false
     }
   ]
