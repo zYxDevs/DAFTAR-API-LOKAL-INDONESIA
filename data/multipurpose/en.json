@@ -13,17 +13,6 @@
       "authentication": false
     },
     {
-      "apiName": "Ryzumi API",
-      "status": true,
-      "documentationUrl": "https://api.ryzumi.net",
-      "developer": {
-        "name": "ShirokamiRyzen",
-        "profileUrl": "https://github.com/ShirokamiRyzen"
-      },
-      "description": "Provides a free API for application and bot development, with full documentation and uptime of up to 99%. Access various APIs such as AI, Downloader, Internet, and more",
-      "authentication": false
-    },
-    {
       "apiName": "Chocomilk API",
       "status": true,
       "documentationUrl": "https://chocomilk.amira.us.kg",
@@ -32,6 +21,17 @@
         "profileUrl": "https://github.com/ZTRdiamond"
       },
       "description": "Multi-purpose API service with a variety of endpoints available, suitable for any development project such as bots, apps, or others.",
+      "authentication": false
+    },
+    {
+      "apiName": "Ryzumi API",
+      "status": true,
+      "documentationUrl": "https://api.ryzumi.net",
+      "developer": {
+        "name": "ShirokamiRyzen",
+        "profileUrl": "https://github.com/ShirokamiRyzen"
+      },
+      "description": "Provides a free API for application and bot development, with full documentation and uptime of up to 99%. Access various APIs such as AI, Downloader, Internet, and more",
       "authentication": false
     }
   ]

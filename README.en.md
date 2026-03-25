@@ -228,10 +228,11 @@ This file is translation from Original (Bahasa Indonesia).
 
 ### Multipurpose
 
-| API Name   | Developer                                           | Documentation                     | Status | Description                                                                                                                                                              | Authentication |
-| ---------- | --------------------------------------------------- | --------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- |
-| Akuari Api | akuari                                              | [Link](https://api.akuari.my.id/) | ✅     | A collection of bot needs api, and some api: Visitor api, Check ip api, Check Website Live or not, File api, etc. with JSON response.                                    | `false`        |
-| Ryzumi API | [ShirokamiRyzen](https://github.com/ShirokamiRyzen) | [Link](https://api.ryzumi.net)    | ✅     | Provides a free API for application and bot development, with full documentation and uptime of up to 99%. Access various APIs such as AI, Downloader, Internet, and more | `false`        |
+| API Name      | Developer                                           | Documentation                         | Status | Description                                                                                                                                                              | Authentication |
+| ------------- | --------------------------------------------------- | ------------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- |
+| Akuari Api    | akuari                                              | [Link](https://api.akuari.my.id/)     | ✅     | A collection of bot needs api, and some api: Visitor api, Check ip api, Check Website Live or not, File api, etc. with JSON response.                                    | `false`        |
+| Chocomilk API | [ZTRdiamond](https://github.com/ZTRdiamond)         | [Link](https://chocomilk.amira.us.kg) | ✅     | Multi-purpose API service with a variety of endpoints available, suitable for any development project such as bots, apps, or others.                                     | `false`        |
+| Ryzumi API    | [ShirokamiRyzen](https://github.com/ShirokamiRyzen) | [Link](https://api.ryzumi.net)        | ✅     | Provides a free API for application and bot development, with full documentation and uptime of up to 99%. Access various APIs such as AI, Downloader, Internet, and more | `false`        |
 
 ### Music
 
