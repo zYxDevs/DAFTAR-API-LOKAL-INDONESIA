@@ -80,7 +80,7 @@
     },
     {
       "apiName": "Kode Pos",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://nbc.vanmason.web.id/service/kodepos/42173",
       "developer": {
         "name": "Cain van Mason",
@@ -109,17 +109,6 @@
         "profileUrl": "https://github.com/feri-irawan"
       },
       "description": "Coat of arms of provinces and regencies/cities in Indonesia (38 provinces and 514 regencies/cities).",
-      "authentication": false
-    },
-    {
-      "apiName": "Nama Daerah Seluruh Indonesia",
-      "status": false,
-      "documentationUrl": "https://ibnux.github.io/data-indonesia",
-      "developer": {
-        "name": "ibnux",
-        "profileUrl": null
-      },
-      "description": "JSON API for the names of provinces, regencies/cities, districts, and villages for mobile apps.",
       "authentication": false
     },
     {
